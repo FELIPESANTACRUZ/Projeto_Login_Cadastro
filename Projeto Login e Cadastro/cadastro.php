@@ -24,5 +24,5 @@
 
     </main>
 </body>
-    </head>
+    
 </html>
